@@ -1,2 +1,2 @@
 # -leetcode
-这是专门为面试的leetcode刷题
+这是收录经典的leetcode题
